@@ -1,0 +1,11 @@
+pandas
+numpy
+tensorflow==2.8.2
+ktrain
+python-dotenv
+nltk
+wordcloud
+openpyxl
+textblob
+vaderSentiment
+flair
